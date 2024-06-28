@@ -1,0 +1,47 @@
+[
+    {
+        "id": "",
+        "nome": "LEGO 2K Drive",
+        "descricao": "Bem vindos à Bricklandia, terra da aventura de pilotagem em um imenso mundo aberto LEGO®. Corra em qualquer lugar, brinque com qualquer pessoa, construa seus veículos dos sonhos e derrote um elenco de rivais implacáveis para ganhar o cobiçado Troféu Celeste! No LEGO 2K Drive, seu fantástico veículo se transforma, dando a você a liberdade de pilotar em alta velocidade sem parar por pistas de corrida, estradas de terra e pela água.",
+        "ano_lancamento": 2023,
+        "plataforma": "Nintendo Switch",
+	    "classificacaoIndicativa": "Livre",
+	    "genero": "Arcade, Aventura, Corrida, Multijogador"
+    },
+    {
+        "id": "",
+        "nome": "Bayonetta",
+        "descricao": "Bayonetta é uma bruxa destemida e avassaladora e ela usa pistolas, chicotes e lança-chamas contra anjos para descobrir a verdade sobre o seu próprio passado. Suas armas e golpes são sofisticadamente superiores, mas ela consegue também se esquivar de ataques para diminuir a velocidade do tempo e infligir golpes de tortura nos seus inimigos.",
+        "ano_lancamento": 2018,
+        "plataforma": "Nintendo Switch",
+	    "classificacaoIndicativa":"16",
+	    "genero": "Ação"
+    },
+    {
+        "id": "",
+        "nome": "Lovers in a Dangerous Spacetime",
+        "descricao": "Um jogo frenético de ação e tiros no espaço para 1 a 4 jogadores. Explore uma galáxia cheia de cores numa enorme nave de guerra neon que você e outro jogador controlam juntos através de torres, lasers, escudos e turbos. Somente com o trabalho em equipe vocês conseguirão vencer as forças maléficas do Anti-Amor, resgatar os coelhinhos-espaciais raptados e evitar a morte no vácuo sideral. O espaço é um lugar perigoso, mas você não precisa enfrentá-lo sozinho!",
+        "ano_lancamento": 2021,
+        "plataforma": "Nintendo Switch",
+	    "classificacaoIndicativa":"Livre",
+	    "genero": "Festa, Mutijogador, Ação, Simulação"
+    },
+    {
+        "id": "",
+        "nome": "Princess Peach: Showtime!",
+        "descricao": "Ajude Peach a salvar o Teatro Esplendor da malvada Rubi e da Trupe Uvaparsas, que prepararam o palco para uma tragédia inesquecível. Na companhia de Estela, a guardiã do teatro, Peach está pronta para salvar o dia!",
+        "ano_lancamento": 2024,
+        "plataforma": "Nintendo Switch",
+        "classificacaoIndicativa":"Livre",
+        "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Super Mario 3D World Deluxe",
+        "descricao": "Salte e escale por dezenas de fases coloridas! Multiplique a diversão juntando-se ou competindo contra amigos localmente* ou online** para alcançar o objetivo de cada fase. Trabalhem juntos para explorar e descobrir itens colecionáveis ou competir pela coroa ganhando a maior pontuação, criando um frenesi amistoso! Mario (e seus amigos) podem usar uma variedade de itens power-up como o Super Bell, que concede habilidades de gato, como escalar e arranhar. Aproveite as vantagens extras para completar as fases e conquistar a coroa!",
+        "data_lancamento": 2021,
+        "plataforma": "Nintendo Switch",
+	    "classificacaoIndicativa":"Livre",
+        "genero": "Plataforma, Ação"
+    }
+]

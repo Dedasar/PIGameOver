@@ -1,0 +1,38 @@
+[
+    {
+        "id": "",
+        "nome": "Crash Bandicoot Sane Trilogy",
+        "descricao": "Seu marsupial favorito, Crash Bandicoot™, está de volta! Ele está aprimorado, inspirado e preparado para a coleção de jogos da trilogia insana. Agora você pode experimentar Crash Bandicoot como nunca antes. Gire, pule, golpeie e repita conforme você enfrentar as aventuras e os desafios épicos através dos três jogos que deram início a tudo, Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back e Crash Bandicoot™: Warped. Reviva todos os seus momentos favoritos de Crash em seu apogeu gráfico totalmente remasterizado e se prepare para colocar um CRASH nos seus golpes!",
+        "ano_lancamento": 2017,
+        "plataforma": "PS3",
+	    "classificacaoIndicativa": "Livre",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Infamous 2",
+        "descricao": "Depois de seu confronto com a Besta em inFamous, Cole McGrath é forçado a partir em retirada, já que suas habilidades não são poderosas o suficiente para garantir sua vitória. O protagonista segue até New Marais, uma cidade do sul do país, que lembra o clima da Nova Luisiana, antes da passagem do furacão Katrina.Foi nesta cidade que a Ray Sphere foi concebida pela primeira vez, mas Cole terá trabalho para alcançar outra, já que uma milícia organizada por Bertrand não vê com bons olhos aqueles com habilidades sobre-humanas. Além das barreiras humanas, o jogador terá que superar também os mutantes de pele escura que varrem cada esquina de New Marais.",
+        "ano_lancamento": 2014,
+        "plataforma": "PS3",
+	    "classificacaoIndicativa":"16 anos",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Motor Storm Apocalypse",
+        "descricao": "É um jogo de corrida com uma narrativa envolvente. A história é contada pelas experiências de três personagens: Mash, o novato; Tyler, o profissional; e Big Dog, o veterano. Cada um representando um nível de dificuldade. Durante o Festival MotorStorm do Apocalypse, que dura três dias, esses personagens oferecem visões únicas dos eventos catastróficos, adicionando profundidade e imersão à experiência de jogo.",
+        "ano_lancamento": 2011,
+        "plataforma": "PS3",
+	    "classificacaoIndicativa":"13 anos",
+	    "genero": "Corrida"
+    },
+    {
+        "id": "",
+        "nome": "The Shoot",
+        "descricao": "The Shoot é um jogo de tiroteio on-rail, ou seja, o jogador atira pelo cenário sem ter controle sobre a direção do personagem. A aventura possui cinco longos estágios diferentes, sendo que ação decorre em sets de filmagem - abrangendo temas que variam entre terror, faroeste, sci-fi e outros. A tecnologia do periférico PlayStation Move é empregada na brincadeira para oferecer precisão fiel na hora de mirar o controle e disparar. Além disso, poderes especiais podem ser ativados com gestos como socos e giros. Você tem o que é preciso para se tornar a melhor estrela de ação?",
+        "ano_lancamento": 2010,
+        "plataforma": "PS3",
+	    "classificacaoIndicativa":"12 anos",
+	    "genero": "Tiro"
+    }
+]

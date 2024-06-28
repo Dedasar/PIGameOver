@@ -1,0 +1,56 @@
+[
+    {
+        "id": "",
+        "nome": "Battleborn",
+        "descricao": "Um grupo de heróis barra-pesada protege a última estrela do universo de um mal misterioso neste jogo de tiro dos criadores de Borderlands. Para defendê-la, você precisará de todos os tipos possíveis e imagináveis de personagens e armas – de homens-águia ciborgues a vampiros samurais e brutamontes com metralhadoras. Golpeie e bloqueie, corra e atire, conjure e esquive, ou simplesmente destrua seus oponentes enquanto constrói e fortalece sua própria equipe de heróis. Escolha seu herói e lute sozinho ou em grupo junto com seus amigos nas missões da história, isso se não quiser lutar contra eles em partidas multijogador alucinantes.",
+        "ano_lancamento": 2016,
+        "plataforma": "Xbox One",
+	    "classificacaoIndicativa": "12 anos",
+	    "genero": "Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Bem 10: Uma super viagem",
+        "descricao": "Ben Tennyson e sua família estão com tudo pronto para relaxar de férias na Europa – até que o maléfico Hex desperta quatro misteriosos cristais e invoca visitantes monstruosos do Vazio. Agora você deve ajudar o Bem a impedir os planos “Hextremamente” maléficos do mestre da magia!",
+        "ano_lancamento": 2020,
+        "plataforma": "Xbox One",
+	    "classificacaoIndicativa":"Livre",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "The Lego Movie 2 Videogame",
+        "descricao": "Os invasores alienígenas deixaram a cidade de Bricksburg em ruínas e capturaram os amigos de Emmet! Agora Emmet e um grupo de personagens heroicos devem ir além do seu mundo para salvar seus amigos dos estranhos habitantes do Sistema Systar. Aventure-se no espaço sideral, descubra novos mundos e teste suas habilidades de Mestre Construtor.",
+        "ano_lancamento": 2019,
+        "plataforma": "Xbox One",
+	    "classificacaoIndicativa":"Livre",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Lego os Incríveis",
+        "descricao": "Viva as aventuras eletrizantes da família Pêra na luta contra o crime e por uma vida mais caseira nos dois filmes de longa-metragem da Disney-Pixar, Os Incríveis e Os Incríveis 2, em um mundo LEGO® cheio de diversão e humor. LEGO® Os Incríveis permite que os jogadores explorem níveis da história repletas de ação em um mundo épico, que inclui Municiberg, onde usam suas superpoderes especiais para levar os supervilões da cidade à justiça. Os jogadores podem ainda formar equipes com os amigos ou familiares na cooperação com 2 jogadores para criar construções de LEGO® incríveis!",
+        "ano_lancamento": 2018,
+        "plataforma": "Xbox One",
+        "classificacaoIndicativa":"Livre",
+        "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Recore",
+        "descricao": " Você é Joule Adams, um dos últimos humanos restantes no planeta Éden Distante, um mundo misterioso e perigoso controlado por inimigos robóticos que buscam a sua destruição. Para sobreviver, você deve fazer amizade com um grupo corajoso de companheiros Nucleobot, cada um com habilidades e poderes únicos.",
+        "data_lancamento": 2016,
+        "plataforma": "Xbox One",
+	    "classificacaoIndicativa":"10 anos",
+        "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Rugby15",
+        "descricao": "Rugby é um esporte pouco conhecido que faz muito sucesso no exterior, e que agora você pode experimentar direto da sua casa. O esporte consiste em uma mistura de Futebol com Futebol Americano, onde o objetivo é chutar a bola acima de uma trava pendurada e vários metros de altura acima do estádio ou chutar a bola em uma área retangular na vertical que seria o Gol do jogo.",
+        "ano_lancamento": 2015,
+        "plataforma": "Xbox One",
+        "classificacaoIndicativa":"12 anos",
+        "genero": "Esportes"
+    }
+]

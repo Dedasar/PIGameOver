@@ -1,0 +1,65 @@
+[
+    {
+        "id": "",
+        "nome": "Blood Bowl",
+        "descricao": "DBrutal, tático, insano… isto é o BLOOD BOWL! O desporto mortal regressa com um novo jogo de futebol de fantasia que usa as regras do jogo de tabuleiro e traz novos conteúdos. Abre caminho para a vitória e manda os teus adversários para a cova!Calça as botas, coloca o teu capacete, ajusta as tuas ombreiras e peitoral… e esconde uma adaga afiada no teu cinto.",
+        "ano_lancamento": 2023,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa": "14 anos",
+	    "genero": "Estratégia, Esporte"
+    },
+    {
+        "id": "",
+        "nome": "Concrete Genie",
+        "descricao": "Devolva a vida da cidade abandonada de Denska, pegue seu pincel mágico e comece a pintar como Ash, o adolescente criativo no centro dessa comovente aventura-ação, exclusiva para o PS4.Cercado pela poluição e perseguido por bandidos, só você pode restaurar esta cidade litorânea, que antes era brilhante e agitada, aproveitando o poder da Tinta Viva para limpar suas ruas e becos.",
+        "ano_lancamento": 2019,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"Livre",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "God of War",
+        "descricao": "Vivendo como um mortal longe das sombras dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda chance de ser pai. Ele e seu filho Atreus devem se aventurar na brutal região nórdica e lutar para cumprir uma missão profundamente pessoal.",
+        "ano_lancamento": 2018,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"14 anos",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Grand Theft Auto V",
+        "descricao": "Viva as tramas intrincadas que envolvem Franklin, Michael e Trevor no extenso mundo aberto de Los Santos e Blaine County, agora para PS5 com visuais novos e incríveis, transição mais rápida, gatilhos adaptáveis, resposta tátil, Tempest 3D Audio e muito mais.",
+        "ano_lancamento": 2022,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"18 anos",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Hozizon Zero Dawn",
+        "descricao": "Em uma era na qual máquinas vagam livremente e a humanidade deixou de ser a espécie dominante, uma jovem caçadora chamada Aloy inicia uma jornada na qual desvendará o seu destino.Em um mundo pós-apocalíptico exuberante, onde a natureza retomou as ruínas de uma civilização esquecida, pequenos grupos de pessoas vivem em tribos primitivas de caçadores e coletores. O domínio delas sobre esse novo ambiente selvagem foi usurpado pelas máquinas, terríveis criaturas mecânicas de origem desconhecida.",
+        "ano_lancamento": 2017,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"14 anos",
+	    "genero": "Ação, RPG"
+    },
+    {
+        "id": "",
+        "nome": "Minercraft Legends",
+        "descricao": "Descobre os mistérios do Minecraft Legends, um novo jogo de estratégia de ação. Explora uma terra pacífica, cheia de recursos valiosos e biomas exuberantes à beira da destruição. Os devastadores piglins chegaram, e cabe-te a ti inspirar os teus aliados e liderá-los em batalhas estratégicas para salvar a Superfície!",
+        "ano_lancamento": 2023,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"10 anos",
+	    "genero": "Ação, Estratégia"
+    },
+    {
+        "id": "",
+        "nome": "Uncharted: The Lost Legacy",
+        "descricao": "Para recuperar um artefato antigo e tirá-lo das mãos de um guerrilheiro implacável, Chloe vai precisar da ajuda da famosa mercenária Nadine Ross e desbravar os Gates Ocidentais da Índia, tudo para encontrar a Presa de Ganesha. Em sua maior jornada até agora, Chloe terá de confrontar o passado e decidir o que está disposta a sacrificar para forjar o próprio legado.",
+        "ano_lancamento": 2017,
+        "plataforma": "PS4",
+	    "classificacaoIndicativa":"14 anos",
+	    "genero": "Ação, Aventura"
+    }        
+]

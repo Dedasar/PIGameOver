@@ -1,0 +1,29 @@
+[
+    {
+        "id": "",
+        "nome": "God Of War Ragnarowk",
+        "descricao": "Do Santa Monica Studio, esta é a sequência da aclamada versão de 2018 de God of War. O Fimbulwinter já começou. Kratos e Atreus devem viajar pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para uma batalha profetizada que causará o fim do mundo. Nessa jornada, eles explorarão paisagens míticas impressionantes e enfrentarão inimigos aterradores: deuses nórdicos e monstros. A ameaça do Ragnarök se aproxima. Kratos e Atreus terão de escolher entre a segurança deles próprios e a dos reinos.",
+        "ano_lancamento": 2022,
+        "plataforma": "PS5",
+	    "classificacaoIndicativa": "18 anos",
+	    "genero": "Ação"
+    },
+    {
+        "id": "",
+        "nome": "Horizon Call of the Montain",
+        "descricao": "esfrute do mundo majestoso de Horizon como jamais visto nesta nova aventura para o PlayStation®VR2. Os visuais deslumbrantes e os recursos inovadores dos novos controles do PS VR2 Sense garantem a imersão total no mundo de Horizon, para você viver uma experiência inigualável. Suba até os cumes do Solar na pele de Ryas, um ex-soldado que caiu em desgraça, e desvende um novo mistério a respeito das Máquinas para se redimir e salvar seu povo. Você também vai encontrar pelo caminho a Aloy, outros rostos familiares e novos personagens.Volte aos ermos de um jeito totalmente novo em Horizon Call of the Mountain.",
+        "ano_lancamento": 2022,
+        "plataforma": "PS5",
+	    "classificacaoIndicativa":"12 anos",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Prodeus",
+        "descricao": "Prodeus é um first-person shooter à antiga, reinventado usando tecnologias e técnicas de renderização modernas. Sente a qualidade que se espera de um jogo AAA moderno, desenhado com uma estética retro e uma jogabilidade que invoca os limites tecnológicos do hardware mais antigo.O jogo tem uma campanha feita à mão por veteranos da indústria dos FPS, modos cooperativo e competitivo multijogador assentes em tipos de jogo clássicos*, um editor de níveis totalmente integrado e um navegador de mapas da comunidade para teres ação sempre que quiseres e com uma quantidade de mapas quase infinita.Prepara-te para pintar as paredes de sangue. Este é o jogo de tiros que esperavas.",
+        "ano_lancamento": 2014,
+        "plataforma": "PS5",
+	    "classificacaoIndicativa":"14 anos",
+	    "genero": "Ação, Tiro"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "",
+        "nome": "Destiny",
+        "descricao": "Destiny é um jogo de tiro em primeira pessoa de última geração, com uma narrativa cinematográfica rica sem precedentes, modos de jogo públicos cooperativos e competitivos e atividades ntegradas a um mundo online persistente. Aventure-se só ou junte-se a um grupo de amigos. A escolha é sua.",
+        "ano_lancamento": 2014,
+        "plataforma": "Xbox 360",
+	    "classificacaoIndicativa": "14 anos",
+	    "genero": "Jogos de Tiro"
+    },
+    {
+        "id": "",
+        "nome": "Meet the Robinsons",
+        "descricao": "Para transferires o manual deste jogo, procura o jogo em http://marketplace.xbox.com e selecciona Ver Manual do Jogo. Alguém roubou a Máquina do Tempo dos Robinson e o Wilbur vai ser o culpado se não a recuperar. Ele precisa da tua ajuda para esta missão, antes que todo o futuro seja arruinado em Meet the Robinsons, um jogo baseado no filme de animação da Disney.",
+        "ano_lancamento": 2009,
+        "plataforma": "Xbox 360",
+	    "classificacaoIndicativa":"Livre",
+	    "genero": "Ação, Aventura"
+    },
+    {
+        "id": "",
+        "nome": "Resident Evil 4",
+        "descricao": "eis anos após a destruição de Raccoon City, Leon Kennedy, agora um agente do Serviço Secreto Americano, é enviado à Europa para resgatar Ashley Graham, a filha do presidente. Ao chegar, Leon localiza um morador local nas montanhas e o questiona sobre o paradeiro de Ashley, sem obter resposta. De repente, o homem se revolta e tenta atacar Leon! Mais uma vez, os horrores de Raccoon City invadem a mente de Leon, alertando-o de que o pesadelo ainda não acabou.",
+        "ano_lancamento": 2014,
+        "plataforma": "Xbox 360",
+	    "classificacaoIndicativa":"18 anos",
+	    "genero": "Survival, Horror"
+    },
+    {
+        "id": "",
+        "nome": "Skyrim",
+        "descricao": "A versão Jogos sob Demanda oferece suporte a Inglês. O próximo capítulo da muito esperada saga de Elder Scrolls vem dos criadores dos Jogos do Ano de 2006 e 2008, Bethesda Game Studios. Skyrim reimagina e revoluciona a fantasia épica em mundo aberto, trazendo à vida um mundo completamente virtual para você explorar da maneira que quiser.",
+        "ano_lancamento": 2012,
+        "plataforma": "Xbox 360",
+        "classificacaoIndicativa":"18 anos",
+        "genero": "Survival, Horror"
+    }    
+]
